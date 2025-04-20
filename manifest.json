@@ -1,0 +1,13 @@
+{
+    "display_name": "内容屏蔽器",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "AI助手",
+    "version": "1.0.0",
+    "homePage": "",
+    "auto_update": false,
+    "extension_api_version": 1
+} 
